@@ -1,0 +1,18 @@
+
+.imagebrand{
+    font-size: medium;
+    font-weight: bold;
+    color: white;
+    background-color: black;
+    text-align: center;
+    height: 50px;
+    padding-top: 10px;
+}
+
+#heading{
+    font-size: xx-large;
+    font-weight: bolder;
+    color: black;
+    text-align: center;
+    margin-top: 13px;
+}
